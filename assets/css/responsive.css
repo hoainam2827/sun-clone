@@ -7,7 +7,7 @@
     #header{
         width: 100%;
     }
-
+    
     .container{
         position: absolute;
         width: 100%;
@@ -18,7 +18,7 @@
         height: 8rem;
         background-color: #fff;
     }
-
+    
     .header__nav {
         display: none;
     }
